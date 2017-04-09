@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E02E7F76F2725A1C850C764A732CC7C649F7578",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6E02E7F76F2725A1C850C764A732CC7C649F7578" : 9223372036854775807,
+    "2753F9C5D5E0942A7F0A4FCF32F261C571AC51E1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F3844922-A6F4-4EF1-8376-F0F9B2C5958E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6E02E7F76F2725A1C850C764A732CC7C649F7578" : "MiraclePill\/",
+    "2753F9C5D5E0942A7F0A4FCF32F261C571AC51E1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiraclePill",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MiraclePill.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:huutandg\/miraclePills.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2753F9C5D5E0942A7F0A4FCF32F261C571AC51E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:huutandg\/miraclePills.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E02E7F76F2725A1C850C764A732CC7C649F7578"
+    }
+  ]
+}
