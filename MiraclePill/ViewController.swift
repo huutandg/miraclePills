@@ -10,7 +10,6 @@ import UIKit
 
 class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
 
-    //blah blah blah
     @IBOutlet weak var statePicker: UIPickerView!
     @IBOutlet weak var statePickerBtn: UIButton!
     
